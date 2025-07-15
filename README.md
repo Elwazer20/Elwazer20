@@ -1,5 +1,5 @@
 Hello! 👋 I'm Ahmed Maher Elwazer
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2302569B&size=24&lines=Flutter+Developer+🚀;Mastering+Clean+Architecture+with+MVVM;Building+Responsive+Mobile+Apps)
 I'm a skilled Flutter developer from Egypt, passionate about building cross-platform mobile apps with Dart. I specialize in Clean Architecture (MVVM), state management with Cubit/BLoC, and crafting responsive, pixel-perfect UIs by breaking them into reusable Widgets. My focus is on delivering seamless user experiences with efficient logic and modern design patterns. 🌟
 🛠️ Skills
 
