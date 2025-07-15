@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Ahmed Maher Elwazer
+# Hello! 👋 I'm Ahmed Elwazer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2302569B&size=24&lines=Flutter+Developer+🚀;Mastering+Clean+Architecture+with+MVVM;Building+Responsive+Mobile+Apps)
 
