@@ -21,6 +21,7 @@ I'm a skilled Flutter developer from Egypt, passionate about building cross-plat
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elwazer20&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elwazer20&layout=compact&langs_count=6&theme=radical)
 
 ## 🏆 Achievements
