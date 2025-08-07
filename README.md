@@ -1,71 +1,41 @@
-# 👋 Hello! I'm Ahmed Elwazer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2302569B&size=24&lines=Flutter+Developer+🚀;Mastering+Clean+Architecture+with+MVVM;Building+Responsive+Mobile+Apps)
+# 👨‍💻 Ahmed Maher
 
-I'm a skilled Flutter developer from Egypt 🇪🇬, passionate about building cross-platform mobile apps with Dart.  
-I specialize in **Clean Architecture (MVVM)**, **Cubit/BLoC state management**, and crafting **responsive UIs** using reusable widgets.  
-I focus on delivering seamless user experiences with efficient logic and modern design patterns.
+## 💫 About Me:
+🔭 I’m currently working on Flutter apps<br>
+🌱 I’m currently learning advanced Flutter & backend technologies<br>
+⚡ Fun fact: I love coffee more than sleep ☕
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engahmedmaher28)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/engahmed.maher.28)
 
-## 🛠️ Skills
+## 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobe_xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-- **Languages:** Dart, Kotlin  
-- **Frameworks:** Flutter, Firebase  
-- **State Management:** Cubit, BLoC, Provider, InheritedWidget  
-- **Architecture:** Clean Architecture (MVVM)  
-- **Integrations:** Stripe, PayPal, Google Maps, REST APIs  
-- **UI/UX:** Responsive & Adaptive UI, Lottie & Rive Animations  
-- **Tools:** Git, Android Studio, VS Code  
-- **Languages Spoken:** Arabic (Native), English (B2)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=engahmedmaher&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=engahmedmaher&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=engahmedmaher&theme=tokyonight&hide_border=false&layout=compact)
 
----
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=engahmedmaher&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 📱 Featured Projects
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-*Add your real projects here, example:*
+## 💼 GitHub Profile Trophy
+![](https://github-profile-trophy.vercel.app/?username=engahmedmaher&theme=tokyonight&column=7)
 
-- **[MoodTracker]**: A mental health journaling app using Cubit & Clean Architecture. [Repo Link]  
-  ![Project Demo](assets/moodtracker-demo.gif)
-
----
-
-## 📊 GitHub Stats
-
-### 🔥 My Stats
-![GitHub Stats](https://github-readme-stat-cpjo68dtq-elwazer20s-projects.vercel.app/api?username=Elwazer20&show_icons=true&theme=dracula)
-
-### 🚀 Most Used Languages
-![Top Langs](https://github-readme-stat-cpjo68dtq-elwazer20s-projects.vercel.app/api/top-langs/?username=Elwazer20&layout=compact&langs_count=6&theme=radical)
-
-### ⏱️ Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Elwazer20&theme=dark)
-
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Elwazer20&label=Profile%20views&color=0e75b6&style=flat)
+## 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=engahmedmaher&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-## 🏆 Achievements
-
-- ✅ **Certified Flutter Developer** (Udemy, 2024)  
-- ✅ **Mobile App Development** Training – ITI  
-- ✅ **Rwad Program – DEPI** (ITC)  
-- ✅ **Contributed** to open-source Flutter projects
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-maher-816a47304/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-
-
-## 🌐 Portfolio
-> Checkout my work here 👉 [**My Portfolio**](https://elwazer20.github.io)
-
----
-
-### ✨ Animated Touch
-
-![Flutter Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+©️ Ahmed Maher - Powered by 💙 Flutter & GitHub
