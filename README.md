@@ -1,41 +1,56 @@
+<h1 align="center">Hi 👋, I'm Ahmed Maher (Elwazer)</h1>
 
-# 👨‍💻 Ahmed Maher
-
-## 💫 About Me:
-🔭 I’m currently working on Flutter apps<br>
-🌱 I’m currently learning advanced Flutter & backend technologies<br>
-⚡ Fun fact: I love coffee more than sleep ☕
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engahmedmaher28)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/engahmed.maher.28)
-
-## 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe_xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=engahmedmaher&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=engahmedmaher&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=engahmedmaher&theme=tokyonight&hide_border=false&layout=compact)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=engahmedmaher&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 💼 GitHub Profile Trophy
-![](https://github-profile-trophy.vercel.app/?username=engahmedmaher&theme=tokyonight&column=7)
-
-## 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=engahmedmaher&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  💻 Flutter Developer | 💡 Problem Solver | 🎯 Focused on Clean Architecture | 🔥 Passionate about Tech
+</p>
 
 ---
-©️ Ahmed Maher - Powered by 💙 Flutter & GitHub
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering graduate with deep focus on mobile development  
+- 🔭 Currently working on personal and freelance projects using Flutter  
+- 🌱 Constantly learning and improving my skills in State Management, Clean Architecture, and UI/UX  
+- 💬 Ask me about `Flutter`, `Dart`, `Firebase`, `Clean Architecture`, or `State Management`  
+- ⚡ Fun fact: I can debug your code faster than I reply to messages 🤫  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmedmaherdev) or [GitHub](https://github.com/Elwazer20)
+
+---
+
+## 🛠️ Tech Stack
+
+- 🔹 Flutter & Dart  
+- 🔹 Firebase (Auth, Firestore, Storage, Messaging)  
+- 🔹 State Management: Bloc / Cubit / Provider / ValueNotifier  
+- 🔹 Git, GitHub, GitLab  
+- 🔹 Restful APIs, JSON, Dio  
+- 🔹 Local storage (Hive, Shared Preferences)  
+- 🔹 Clean Architecture | MVVM | SOLID Principles
+
+---
+
+## 🧠 Currently Learning
+
+- 💼 Advanced Design Patterns in Flutter  
+- 🧪 TDD in Flutter  
+- 🌐 Backend integration with Node.js and Firebase Functions
+
+---
+
+## 🗂️ Projects
+
+- 📱 **Chat App** with real-time messaging, emoji reactions, and image sharing  
+- 📘 **Bookly**: A book discovery and reading app with beautiful UI and RESTful API integration  
+- 🧠 **Mental Health Tracker**: Daily mood and habit tracker with local and cloud sync  
+- 💼 **Task Manager**: Personal productivity app using Cubit and Clean Architecture
+
+---
+
+## 📈 GitHub Stats (Want to see them? Just tell me 😉)
+
+---
+
+<p align="center">
+  🚀 Always building, always shipping!  
+  💥 Let's change the world, one Flutter app at a time.
+</p>
