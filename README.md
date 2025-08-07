@@ -24,14 +24,6 @@ I'm not just a developer — I'm a product-minded engineer who values the balanc
 
 ---
 
-## 🚀 Notable Projects
-
-- **[Project Name]**: A smart note-taking app with Cubit and local persistence. Clean architecture applied. [Repo Link]
-- **[Project Name]**: E-commerce UI clone built with Flutter using custom animations, slivers, and state restoration. [Repo Link]
-- **[Project Name]**: Real-time chat app with Firebase, authentication, and push notifications. [Repo Link]
-
----
-
 ## 🏆 Highlights & Achievements
 
 - ✅ **Certified Flutter Developer** – Udemy 2024
